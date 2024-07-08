@@ -11,7 +11,7 @@ Version: 1.0.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #124b81;
+  --theme: #044895;
   --theme2: #124b81;
   --header: #060607;
   --text: #585858;
@@ -45,7 +45,7 @@ Version: 1.0.0
 }
 .theme-btn::before {
   content: "";
-  background-color: #0094d9;
+  background-color: #052034;
   width: 0;
   height: 50%;
   position: absolute;
@@ -57,7 +57,7 @@ Version: 1.0.0
 }
 .theme-btn::after {
   content: "";
-  background-color: #0094d9;
+  background-color: #052034;
   width: 0;
   height: 50%;
   position: absolute;
@@ -7550,10 +7550,10 @@ background-size: cover;
   color: var(--white);
 }
 .single-team-items:hover .team-content {
-  
     background-color: #052034;
-  
 }
+
+
 .single-team-items:hover .team-image {
   position: relative;
 }
